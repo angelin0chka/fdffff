@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: cornflowerblue;
+    padding:20px ;
+}
+header a{
+    text-decoration: none;
+    background-image: linear-gradient( white,blue );
+    color: azure;
+    padding: 10px;
+    margin-right: 30px;
+}
+h1{
+ color: azure;
+ background-image: linear-gradient(white,blue,red);
+}
+ul{
+    background-color: aqua;
+    color: azure;
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+
+}
+img{
+    width:450px;
+    padding-bottom: 10px;
+    
+}
+body{
+    background-color: rgb(219, 180, 255);
+    color: white;
+}
+footer{
+    border: 3px solid black;
+}
